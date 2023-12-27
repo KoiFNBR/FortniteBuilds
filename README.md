@@ -238,3 +238,12 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 21.20-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
 | 21.30-CL-N/A                  | N/A         	 | N/A           	     |           N/A|
 | 21.40-CL-N/A	                | N/A           	 | N/A            	    |		N/A|
+
+# Season 22
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 22.00-CL-N/A	                | N/A         	 | N/A                 |		N/A|
+| 22.10-CL-N/A	                | N/A          	 | N/A            	    |		N/A|
+| 22.20-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
+| 22.30-CL-N/A                  | N/A         	 | N/A           	     |           N/A|
+| 22.40-CL-N/A	                | N/A           	 | N/A            	    |		N/A|

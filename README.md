@@ -236,5 +236,5 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 21.00-CL-N/A	                | N/A         	 | N/A                 |		N/A|
 | 21.10-CL-N/A	                | N/A          	 | N/A            	    |		N/A|
 | 21.20-CL-N/A	                | N/A         	 | N/A            	    |		N/A|
-| 21.30-CL-N/A                  | N/A         	 | N/A           	                N/A|
+| 21.30-CL-N/A                  | N/A         	 | N/A           	                |
 | 21.40-CL-N/A	                | N/A           	 | N/A            	    |		N/A|

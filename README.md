@@ -228,3 +228,8 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://cdn.fnbuilds.services/20.40.zip|
+
+# Season 21
+| Build                         | Date           	 |  Engine Version	    |		    Download links             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 21.00-CL-N/A	                | N/A         	 | N/A           	    |	          https://drive.google.com/file/d/1lOVtoc5WjBzKQRrHt36OPmbkQcwx9GZH/view?usp=sharing  
